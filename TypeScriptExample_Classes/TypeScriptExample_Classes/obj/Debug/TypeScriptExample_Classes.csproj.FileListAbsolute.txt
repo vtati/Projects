@@ -1,0 +1,6 @@
+c:\users\vtati\documents\visual studio 2013\Projects\TypeScriptExample_Classes\TypeScriptExample_Classes\bin\TypeScriptExample_Classes.dll.config
+c:\users\vtati\documents\visual studio 2013\Projects\TypeScriptExample_Classes\TypeScriptExample_Classes\bin\TypeScriptExample_Classes.dll
+c:\users\vtati\documents\visual studio 2013\Projects\TypeScriptExample_Classes\TypeScriptExample_Classes\bin\TypeScriptExample_Classes.pdb
+c:\users\vtati\documents\visual studio 2013\Projects\TypeScriptExample_Classes\TypeScriptExample_Classes\obj\Debug\TypeScriptExample_Classes.csprojResolveAssemblyReference.cache
+c:\users\vtati\documents\visual studio 2013\Projects\TypeScriptExample_Classes\TypeScriptExample_Classes\obj\Debug\TypeScriptExample_Classes.dll
+c:\users\vtati\documents\visual studio 2013\Projects\TypeScriptExample_Classes\TypeScriptExample_Classes\obj\Debug\TypeScriptExample_Classes.pdb
